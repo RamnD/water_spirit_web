@@ -1,9 +1,9 @@
 const cacheName = "Ramnd-Water Spirit-0.0.1";
 const contentToCache = [
-    "Build/ws_build_0.0.1e.loader.js",
-    "Build/ws_build_0.0.1e.framework.js",
-    "Build/ws_build_0.0.1e.data",
-    "Build/ws_build_0.0.1e.wasm",
+    "Build/ws_build_0.0.1f.loader.js",
+    "Build/ws_build_0.0.1f.framework.js",
+    "Build/ws_build_0.0.1f.data",
+    "Build/ws_build_0.0.1f.wasm",
     "TemplateData/style.css"
 
 ];
